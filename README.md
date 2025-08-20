@@ -47,6 +47,7 @@ Digite sua opção:
 - População, Área, PIB, Pontos Turísticos, PIB per capita → vence quem tiver o maior valor.
 - Densidade Demográfica → vence quem tiver o menor valor.
 Em caso de empate, o programa exibirá: Resultado: Empate!
+
 -Exemplo de uso
 Cadastro da Carta 1:
 Estado (letra de A-H): A
