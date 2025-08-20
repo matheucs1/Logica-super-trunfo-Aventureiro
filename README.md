@@ -49,23 +49,42 @@ Digite sua opção:
 Em caso de empate, o programa exibirá: Resultado: Empate!
 
 -Exemplo de uso
+
 Cadastro da Carta 1:
+
 Estado (letra de A-H): A
+
 Código da carta (ex: A01): A01
+
 Nome da Cidade: Belo Horizonte
+
 População: 2500000
+
 Área (em km²): 330.9
+
 PIB (em bilhões de reais): 105.3
+
 Número de Pontos Turísticos: 15
 
+
+
+
 Cadastro da Carta 2:
+
 Estado (letra de A-H): B
+
 Código da carta (ex: B02): B02
+
 Nome da Cidade: Curitiba
+
 População: 1900000
+
 Área (em km²): 434.9
+
 PIB (em bilhões de reais): 95.7
+
 Número de Pontos Turísticos: 20
+
 
 Escolha o atributo para comparação:
 1 - População
